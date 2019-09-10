@@ -1,0 +1,22 @@
+{
+  "name": "gstin-validate",
+  "version": "1.0.0",
+  "description": "Validates the GSTIN",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haywithamit/gstin-validate.git"
+  },
+  "keywords": [
+    "GSTIN"
+  ],
+  "author": "haywithamit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haywithamit/gstin-validate/issues"
+  },
+  "homepage": "https://github.com/haywithamit/gstin-validate#readme"
+}
