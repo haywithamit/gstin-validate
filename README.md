@@ -2,8 +2,8 @@
 
 * Validates GSTIN number for length (15 digits), format (State code, PAN, Entity Number, Z, Checksum) and checksum as per the algorithm
 
-![build](https://gitlab.com/srikanthlogic/gstin-validator/badges/master/build.svg)
-![npm](https://img.shields.io/npm/dw/gstin-validator.svg)
+![build](https://github.com/haywithamit/gstin-validate/badges/master/build.svg)
+![npm](https://img.shields.io/npm/dw/gstin-validate.svg)
 
 ## Installation 
 
